@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "MD.Razaul",
+      "lastName": "Subho",
+      "email": "shuvo2782@gmail.com",
+      "mobileNo": "+491774846689"
+    },
+    {
+      "id": 2,
+      "firstName": "RAZAUL",
+      "lastName": "SUBHO",
+      "email": "shuvo2782@gmail.com",
+      "mobileNo": "017600000000",
+      "salary": null
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
